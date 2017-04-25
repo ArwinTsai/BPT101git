@@ -3,3 +3,6 @@ if(a==0){
 } else{
 	return bad;
 }
+
+fun aabb(){
+}

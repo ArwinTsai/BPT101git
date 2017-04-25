@@ -1,0 +1,3 @@
+func code2() {
+	return true;
+}
