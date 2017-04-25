@@ -4,5 +4,9 @@ if(a==0){
 	return bad;
 }
 
-fun aabb(){
+func aabb(){
+}
+
+func ccddee() {
+	
 }
